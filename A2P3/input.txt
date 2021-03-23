@@ -1,0 +1,11 @@
+10
+PrintNumSquares 1
+PrintNumSquares 3
+PrintNumSquares 5
+PrintNumSquares 10
+DegreeOfSum 7
+DegreeOfSum 2345673
+printPattern 6 *
+printPattern 10 @
+printPattern 16 .
+printPattern 30 *
